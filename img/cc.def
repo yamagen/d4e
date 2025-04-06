@@ -1,0 +1,222 @@
+C001|Afghanistan
+C003|Albania
+C005|Algeria
+C007|American Samoa
+C008|Andorra
+C010|Angola
+C012|Antigua and Barbuda
+C015|Argentina
+C016|Armenia
+C017|Aruba
+C020|Australia
+C025|Austria
+C029|Azerbaijan
+C030|Azores
+C035|Bahamas
+C040|Bahrain
+C045|Bangladesh
+C050|Barbados
+C094|Belarus
+C055|Belgium
+C056|Belize
+C058|Benin
+C060|Bermuda
+C063|Bhutan
+C065|Bolivia
+C069|Bosnia and Herzegovina
+C070|Botswana
+C075|Brazil
+C080|British West Indies
+C081|Brunei darussalam
+C085|Bulgaria
+C593|Burkina Faso
+C092|Burundi
+C307|Cambodia
+C095|Cameroon
+C100|Canada
+C106|Cape Verde
+C113|Central African Republic
+C114|Chad
+C115|Chile
+C457|China|China, People's Republic of
+C120|Colombia
+C122|Comoros
+C125|Congo
+C126|Cook Islands
+C130|Costa Rica
+C290|Cote d'Ivoire(Ivory Coast)
+C133|Croatia
+C135|Cuba
+C140|Cyprus
+C142|Czech Republic
+C150|Denmark
+C153|Dijibouti
+C154|Dominica, Commonwealth of
+C155|Dominican Republic
+C165|Ecuador
+C170|Egypt
+C175|El Salvador
+C180|England
+C183|Equatorial Guinea
+C182|Eritrea
+C184|Estonia
+C185|Ethiopia
+C187|Faeroe Island
+C107|Federated States of Micronesia
+C190|Fiji
+C195|Finland
+C200|France
+C203|French Guiana
+C202|French Polynesia
+C204|Gabon
+C205|Gambia, The
+C208|Georgia
+C210|Germany
+C215|Ghana
+C220|Greece
+C225|Greenland
+C227|Grenada
+C228|Guadeloupe
+C229|Guam
+C230|Guatemala
+C233|Guinea
+C234|Guinea-Bissau
+C235|Guyana
+C240|Haiti
+C245|Honduras
+C250|Hong Kong
+C251|Hungary
+C255|Iceland
+C260|India
+C265|Indonesia
+C270|Iran
+C273|Iraq
+C275|Ireland
+C277|Isle of Man
+C280|Israel
+C285|Italy
+C295|Jamaica
+C300|Japan
+C305|Jordan
+C308|Kazakstan|Kazakhstan
+C310|Kenya
+C312|Kiribati
+C314|Korea|Korea(DPR)
+C315|Korea|Korea(ROK)
+C320|Kuwait
+C323|Kyrgyzstan
+C325|Laos
+C328|Latvia
+C330|Lebanon
+C333|Lesotho
+C335|Liberia
+C340|Libya
+C343|Liechtenstein
+C344|Lithuania
+C345|Luxembourg
+C347|Macau
+C348|Former Yugoslav Republic of Macedonia
+C350|Madagascar
+C353|Madeira Islands
+C355|Malawi
+C360|Malaysia
+C361|Maldives
+C363|Mali
+C365|Malta
+C367|Northern Mariana Islands
+C368|Marshall Islands
+C366|Martinique
+C369|Mauritania
+C370|Mauritius
+C375|Mexico
+C376|Moldova
+C378|Monaco
+C379|Mongolia
+C380|Morocco
+C385|Mozambique
+C090|Myanmar(Burma)
+C388|Namibia
+C386|Nauru
+C387|Nepal
+C390|Netherlands
+C395|Netherlands Antilles
+C396|New Caledonia
+C405|New Zealand
+C420|Nicaragua
+C425|Niger
+C430|Nigeria
+C433|Niue Island
+C434|Northern Ireland
+C435|Norway
+C443|Oman
+C445|Pakistan
+C447|Palau
+C450|Panama
+C400|Papua New Guinea
+C455|Paraguay
+C460|Peru
+C465|Philippines
+C470|Poland
+C475|Portugal
+C474|Puerto Rico
+C477|Qatar
+C482|Reunion
+C483|Romania
+C484|Russia
+C487|Rwanda
+C486|St. Kitts and Nevis
+C521|St. Lucia
+C522|St. Vincent and the Grenadines
+C488|San Marino
+C489|Sao Tome and Principe
+C490|Saudi Arabia
+C495|Scotland
+C497|Senegal
+C498|Seychelles
+C500|Sierra Leone
+C505|Singapore
+C503|Slovak Republic
+C504|Slovenia
+C506|Solomon Islands
+C507|Somalia
+C510|South Africa
+C515|Spain
+C520|Sri Lanka
+C525|Sudan
+C527|Suriname
+C530|Swaziland
+C535|Sweden
+C540|Switzerland
+C545|Syria
+C550|Tahiti
+C555|Taiwan
+C556|Tajikistan
+C560|Tanzania
+C565|Thai|Thailand
+C567|Togo
+C570|Tonga
+C575|Trinidad and Tobago
+C580|Tunisia
+C584|Turkmenistan
+C585|Turkey
+C587|Tuvalu
+C590|Uganda
+C589|Ukraine
+C591|UAE|United Arab Emirates
+C588|United Kingdom
+C592|USA|United States of America
+C607|US Virgin Islands
+C595|Uruguay
+C594|Uzbekistan
+C596|Vanuatu
+C597|Vatican City
+C600|Venezuela
+C605|Vietnam
+C610|Wales
+C620|Western Samoa
+C623|Yemen
+C625|Yugoslavia
+C630|Zaire
+C635|Zambia
+C480|Zimbabwe
+C999|Other
