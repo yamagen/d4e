@@ -1,0 +1,12 @@
+[
+{"day":"048","title":"Interactive phrases 6","quiz":[
+	{"ID":"1","sentence":"いつも<ruby><rb>休</rb><rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みは<BLANK>。","english":"What are you doing on your day off?","answer":"なにしてる","model":"何してる","roman":"nanishiteru"},
+	{"ID":"2","sentence":"<ruby><rb>毎日</rb><rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>、<ruby><rb>仕事</rb><rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>で<ruby><rb>忙</rb><rp>(</rp><rt>いそ</rt><rp>)</rp></ruby>がしいんで、<BLANK><ruby><rb>寝</rb><rp>(</rp><rt>ね</rt><rp>)</rp></ruby>てます。","english":"I'm busy with work every day, so I usually sleep until after noon.","answer":"ひるすぎまで","model":"昼過ぎまで","roman":"hirusugimade"},
+	{"ID":"3","sentence":"じゃ、<BLANK>はたいへんね。","english":"So weekdays are really tough for you.","answer":"へいじつ","model":"平日","roman":"heijitsu"},
+	{"ID":"4","sentence":"ええ、<ruby><rb>疲</rb><rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れて、<ruby><rb>帰</rb><rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>って、<BLANK>、<ruby><rb>ベッド</rb><rp>(</rp><rt>べっど</rt><rp>)</rp></ruby>に<ruby><rb>入</rb><rp>(</rp><rt>はい</rt><rp>)</rp></ruby>って、..。","english":"Yeah, I get tired, go home, take a bath, get into bed, and...","answer":"おふろはいって","model":"お風呂入って","roman":"ofurohaitte"},
+	{"ID":"5","sentence":"<BLANK>うちに、<ruby><rb>毎晩</rb><rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby>、<ruby><rb>眠</rb><rp>(</rp><rt>ねむ</rt><rp>)</rp></ruby>っちゃってます。","english":"Before I know it, I fall asleep every night.","answer":"しらない","model":"知らない","roman":"shiranai"},
+	{"ID":"6","sentence":"<BLANK>ごめん。","english":"Sorry I'm late.","answer":"おくれて","model":"遅れて","roman":"okurete"},
+	{"ID":"7","sentence":"いえ、<ruby><rb>私</rb><rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>も<ruby><rb>今</rb><rp>(</rp><rt>いま</rt><rp>)</rp></ruby>さっき<BLANK>。","english":"Don't be sorry. I just got here too.","answer":"ついたところ","model":"着いたところ","roman":"tsuitatokoro"},
+	{"ID":"8","sentence":"<BLANK>。","english":"This is a present for you.","answer":"プレゼント","model":"プレゼント","roman":"(katakana)purezento(hiragana)"},
+	{"ID":"9","sentence":"そんなの<BLANK>！どうもありがとう。","english":"You didn't have to! Thank you so much.","answer":"よかったのに","model":"よかったのに","roman":"yokattanoni"},
+	{"ID":"10","sentence":"そんな<BLANK>よ。","english":"I couldn't not do it.","answer":"わけにはいかない","model":"わけにはいかない","roman":"wakenihaikanai"}]}]

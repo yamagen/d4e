@@ -1,0 +1,12 @@
+[
+{"day":"047","title":"Interactive phrases 5","quiz":[
+	{"ID":"1","sentence":"<ruby><rb>レストラン</rb><rp>(</rp><rt>れすとらん</rt><rp>)</rp></ruby>？<BLANK>、どこでもいいよ。","english":"A restaurant? Any place is fine with me.","answer":"てきとうなところ","model":"適当なところ","roman":"tekitou"},
+	{"ID":"2","sentence":"<ruby><rb>私</rb><rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<BLANK>。","english":"My stomach hurts a little.","answer":"いがちょっと","model":"胃がちょっと","roman":"igachotto"},
+	{"ID":"3","sentence":"いつから<BLANK>か。","english":"When did it start to hurt?","answer":"いたむんです","model":"痛むんです","roman":"itamunndesu"},
+	{"ID":"4","sentence":"<BLANK>。","english":"Around noon, probably.","answer":"おひるごろから","model":"お昼ごろから","roman":"ohirugorokara"},
+	{"ID":"5","sentence":"<ruby><rb>少</rb><rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し<BLANK>？","english":"Are you feeling better?","answer":"らくになった","model":"楽になった","roman":"rakuninatta"},
+	{"ID":"6","sentence":"<BLANK>。","english":"I'll eat something.","answer":"なにかたべます","model":"何か食べます","roman":"nanikatabemasu"},
+	{"ID":"7","sentence":"じゃ、<BLANK><ruby><rb>食</rb><rp>(</rp><rt>た</rt><rp>)</rp></ruby>べる？","english":"If it's something gentle on my stomach, I can eat.","answer":"やさしいものなら","model":"やさしいものなら","roman":"yasashiimononara"},
+	{"ID":"8","sentence":"<ruby><rb>今日</rb><rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>は<ruby><rb>暑</rb><rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>かったから、<BLANK>、<ruby><rb>食</rb><rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたい。","english":"Since it was hot today, I feel like eating something light.","answer":"さっぱりとしたもの","model":"さっぱりとしたもの","roman":"sapparitoshitamono"},
+	{"ID":"9","sentence":"そうめんとか、<ruby><rb>冷</rb><rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>やしうどんとか、なら<BLANK>けど。","english":"I could make somen or chilled udon, if you like.","answer":"よういできる","model":"用意できる","roman":"youidekiru"},
+	{"ID":"10","sentence":"じゃ、<BLANK>。","english":"OK, I'll leave it to you.","answer":"おまかせします","model":"おまかせします","roman":"omakaseshimasu"}]}]
